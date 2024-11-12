@@ -2,6 +2,7 @@
 
 [![codewars](https://www.codewars.com/users/madMaxR/badges/large)](https://www.codewars.com/users/madMaxR)   
 [![LeetCode Stats](https://leetcard.jacoblin.cool/madMaxR?theme=nord&font=Noto%20Sans%20Masaram%20Gondi)](https://leetcode.com/madmaxr/)
+[![HackerRank](https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg)](https://www.hackerrank.com/profile/erinmaxim)
 
 
 <!--
