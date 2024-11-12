@@ -8,6 +8,9 @@
 **Core** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![k8s](https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 
+[![k8s](https://img.shields.io/static/v1?label=&message=kubernetes&color=326CE5&logo=kubernetes&logoColor=FFFFFF)
+
+
 <!-- Tech Stack -->  
 
 [![HackerRank](https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png)](https://www.hackerrank.com/profile/madMaxR)       
