@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![codewars](https://www.codewars.com/users/madMaxR/badges/large)](https://www.codewars.com/users/madMaxR)   
-![LeetCode Stats](https://leetcard.jacoblin.cool/madMaxR?theme=nord&font=Noto%20Sans%20Masaram%20Gondi)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/madMaxR?theme=nord&font=Noto%20Sans%20Masaram%20Gondi)](https://leetcode.com/madmaxr/)
 
 
 <!--
