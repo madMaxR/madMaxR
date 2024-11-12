@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<!-- Tech Stack -->  
+
+| **Category** | **Technologies** |
+| - | - |
+**Core** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)
+**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/)
+
+<!-- Tech Stack -->  
+
 [![HackerRank](https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png)](https://www.hackerrank.com/profile/madMaxR)       
 [![codewars](https://www.codewars.com/users/madMaxR/badges/large)](https://www.codewars.com/users/madMaxR)   
 [![LeetCode Stats](https://leetcard.jacoblin.cool/madMaxR?theme=nord&font=Noto%20Sans%20Masaram%20Gondi)](https://leetcode.com/madMaxR/)      
