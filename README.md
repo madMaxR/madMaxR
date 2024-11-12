@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![codewars](https://www.codewars.com/users/madMaxR/badges/large)](https://www.codewars.com/users/madMaxR)   
-[![HackerRank](https://www.hrlineup.com/wp-content/uploads/2020/06/hackerrank_logo-1.png)](https://www.hackerrank.com/profile/erinmaxim)       
+[![HackerRank](https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png)](https://www.hackerrank.com/profile/erinmaxim)       
 [![LeetCode Stats](https://leetcard.jacoblin.cool/madMaxR?theme=nord&font=Noto%20Sans%20Masaram%20Gondi)](https://leetcode.com/madmaxr/)      
 
 
