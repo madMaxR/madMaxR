@@ -2,7 +2,7 @@
 
 <!-- Tech Stack --> 
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 | **Category** | **Technologies** |
 | - | - |
 **Core** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)
