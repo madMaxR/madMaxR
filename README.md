@@ -9,6 +9,10 @@
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![k8s](https://img.shields.io/static/v1?label=&message=k8s&color=326CE5&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)
 **OS** | [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=FFFFFF)](https://www.debian.org/) [![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=debian&logoColor=FFFFFF)](https://ubuntu.com/)
 
+### 📚 In learning
+| **Technologies** |
+| - |
+[![RabbitMQ](https://img.shields.io/static/v1?label=&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF)] [![Kafka](https://img.shields.io/static/v1?label=&message=Kafka&color=231F20&logo=Kafka&logoColor=FFFFFF)] [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=844FBA&logo=Terraform&logoColor=FFFFFF)] [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF)] [![Helm](https://img.shields.io/static/v1?label=&message=Helm&color=0F1689&logo=Helm&logoColor=FFFFFF)] 
 
 
 <!-- Tech Stack -->  
