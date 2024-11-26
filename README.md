@@ -5,7 +5,7 @@
 ### 🛠️ Tech Stack
 | **Category** | **Technologies** |
 | - | - |
-**Core** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)
+**Core** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)   
 **DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![k8s](https://img.shields.io/static/v1?label=&message=k8s&color=326CE5&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)  
 **Logs** | ![ELK](https://img.shields.io/static/v1?label=&message=ELK&color=005571&logo=elasticstack&logoColor=FFFFFF)   
 **OS** | [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=FFFFFF)](https://www.debian.org/) [![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=debian&logoColor=FFFFFF)](https://ubuntu.com/)
@@ -13,6 +13,7 @@
 ### 📚 In learning
 | **Category** | **Technologies** |
 | - | - |
+**Core** | [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)  
 **Highload** | ![RabbitMQ](https://img.shields.io/static/v1?label=&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF) ![Kafka](https://img.shields.io/static/v1?label=&message=Kafka&color=231F20&logo=apachekafka&logoColor=FFFFFF) ![Redis](https://img.shields.io/static/v1?label=&message=Redis&color=FF4438&logo=redis&logoColor=FFFFFF)
 **Provisioning** | ![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=844FBA&logo=Terraform&logoColor=FFFFFF)  
 **Config Mngmnt** | ![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF)
