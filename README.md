@@ -18,7 +18,7 @@
 **Config Mngmnt** | ![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF)
 **Secret Mngmnt** | ![Vault](https://img.shields.io/static/v1?label=&message=Vault&color=FFEC6E&logo=Vault&logoColor=FFFFFF)  
 **Artifact Mngmnt** | ![Artifactory](https://img.shields.io/static/v1?label=&message=Artifactory&color=40BE46&logo=JFROG&logoColor=FFFFFF)   
-**k8s** | ![Helm](https://img.shields.io/static/v1?label=&message=Helm&color=0F1689&logo=Helm&logoColor=FFFFFF) ![Argo CD](https://img.shields.io/static/v1?label=&message=ArgoCD&color=EF7B4D&logo=argocd&logoColor=FFFFFF)   
+**k8s** | ![Helm](https://img.shields.io/static/v1?label=&message=Helm&color=0F1689&logo=Helm&logoColor=FFFFFF) ![Argo CD](https://img.shields.io/static/v1?label=&message=ArgoCD&color=EF7B4D&logo=argo&logoColor=FFFFFF)   
 
 
 <!-- Tech Stack -->  
