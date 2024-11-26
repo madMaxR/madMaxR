@@ -27,7 +27,7 @@
 [![HackerRank](https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png)](https://www.hackerrank.com/profile/madMaxR)       
 [![codewars](https://www.codewars.com/users/madMaxR/badges/large)](https://www.codewars.com/users/madMaxR)   
 [![LeetCode Stats](https://leetcard.jacoblin.cool/madMaxR?theme=light&font=Titillium%20Web)](https://leetcode.com/madMaxR/)      
-
+[![roadmap.sh](https://roadmap.sh/card/tall/6745dcba5434bf319a1f7efe?variant=light&roadmaps=devops%2Cpython)](https://roadmap.sh)
 
 <!--
 **madMaxR/madMaxR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
