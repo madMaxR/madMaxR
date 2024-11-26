@@ -6,7 +6,8 @@
 | **Category** | **Technologies** |
 | - | - |
 **Core** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/)
-**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![k8s](https://img.shields.io/static/v1?label=&message=k8s&color=326CE5&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)
+**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![k8s](https://img.shields.io/static/v1?label=&message=k8s&color=326CE5&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/)  
+**Logs** | [![ELK](https://img.shields.io/static/v1?label=&message=ELK&color=005571&logo=elastic&logoColor=FFFFFF)](https://docker.com/)#005571
 **OS** | [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=FFFFFF)](https://www.debian.org/) [![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=debian&logoColor=FFFFFF)](https://ubuntu.com/)
 
 ### 📚 In learning
