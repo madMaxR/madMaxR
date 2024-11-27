@@ -28,6 +28,7 @@
 [![codewars](https://www.codewars.com/users/madMaxR/badges/large)](https://www.codewars.com/users/madMaxR)   
 [![LeetCode Stats](https://leetcard.jacoblin.cool/madMaxR?theme=light&font=Titillium%20Web)](https://leetcode.com/madMaxR/)  
 [![roadmap.sh](https://roadmap.sh/card/wide/6745dcba5434bf319a1f7efe?variant=light)](https://roadmap.sh/u/madmaxr)
+[![roadmap.sh](https://roadmap.sh/card/wide/6745dcba5434bf319a1f7efe?variant=light&roadmaps=devops%2Cpython%2Cgolang%2Ckubernetes)](https://roadmap.sh/u/madmaxr)
 
 <!--
 **madMaxR/madMaxR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
